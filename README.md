@@ -6,6 +6,8 @@ El desafío es desarrollar este componente y lograr que se parezca lo más posib
 - CSS
 - JS Vanilla
 
+![desktop-design](https://user-images.githubusercontent.com/112582420/198421632-31c04092-0b41-4bdb-883f-50120d8ab4d6.jpg)
+
 # Guía de Estilo
 
 ## Diseño
