@@ -30,7 +30,7 @@ body {
 body {
     display: flex;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
     /* font-family: 'Barlow Condensed', sans-serif; */
     font-family: 'Barlow', sans-serif;
     overflow-x: hidden;
@@ -254,6 +254,10 @@ body {
 
 /* MEDIA QUERY */
 @media screen and (max-width: 1280px) {
+    
+    .container {
+        overflow-x: hidden;
+    }
 
     .header {
         padding: 0 6rem;
@@ -301,14 +305,12 @@ body {
 @media screen and (max-width: 926px) {
 
     body {
-        align-items: flex-start;
         height: auto;
     }
 
     .container {
         height: auto;
         padding-bottom: 4rem;
-        overflow-x: hidden;
     }
 
     .bg_pattern {
